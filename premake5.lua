@@ -4,8 +4,8 @@ project "GLFW"
 	staticruntime "off"
 	warnings "off"
 
-	targetdir ("build/bin/" .. outputdir .. "/%{prj.name}")
-	objdir ("build/int/" .. outputdir .. "/%{prj.name}")
+	targetdir ("build/bin/" .. OUTPUT_DIR .. "/%{prj.name}")
+	objdir ("build/int/" .. OUTPUT_DIR .. "/%{prj.name}")
 
 	files {
 		"include/GLFW/glfw3.h",
