@@ -1,8 +1,7 @@
 project "GLFW"
 	kind "StaticLib"
 	language "C"
-	staticruntime "off"
-	warnings "off"
+	staticruntime "on"
 
 	targetdir ("build/bin/" .. OUTPUT_DIR .. "/%{prj.name}")
 	objdir ("build/int/" .. OUTPUT_DIR .. "/%{prj.name}")
