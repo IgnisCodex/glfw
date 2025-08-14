@@ -68,6 +68,7 @@ video tutorials.
  - Jan Ekström
  - Siavash Eliasi
  - er-azh
+ - Jan Hendrik Farr
  - Ahmad Fatoum
  - Nikita Fediuchin
  - Felipe Ferreira
@@ -229,7 +230,7 @@ video tutorials.
  - Brandon Schaefer
  - Sebastian Schuberth
  - Scr3amer
- - Jan Schuerkamp
+ - Jan Schürkamp
  - Christian Sdunek
  - Matt Sealey
  - Steve Sexton
